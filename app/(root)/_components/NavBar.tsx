@@ -6,17 +6,17 @@ import { SiGithub, SiLinkedin, SiX } from "react-icons/si";
 const NavBar = () => {
     const socials = [
         {
-            link: "https://www.linkedin.com/in/nikunja-sarma",
+            link: "/linkedin",
             label: "Linkedin",
             icon: SiLinkedin,
         },
         {
-            link: "https://github.com/Nikunja-Sharma",
+            link: "/github",
             label: "Github",
             icon: SiGithub,
         },
         {
-            link: "https://twitter.com/nikunja__",
+            link: "/x",
             label: "X",
             icon: SiX,
         },
