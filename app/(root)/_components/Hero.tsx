@@ -23,10 +23,10 @@ const Hero = () => {
                     }
                 </p>
                 <div className="inline-block">
-                    <Link href={"mailto:xnikunja@proton.me"} className="">
+                    <Link href={"https://ai.nikunja.online"} >
                         <div className="flex flex-col">
                             <h1 className="text-3xl font-bold hover:text-green-500">
-                                Contact Me
+                                Get Started
                             </h1>
                             <div className=" h-2 bg-green-500 rounded-full"></div>
                             <div className=" h-2 bg-indigo-500 rounded-full translate-x-2"></div>
